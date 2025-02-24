@@ -1,2 +1,2 @@
-# clearerYtb
-Clear youtube activity
+# cleanerYtb
+Clean youtube activity
